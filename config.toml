@@ -1,0 +1,33 @@
+baseURL = "Https://Greengoblin510.com"
+languageCode = "en-us"
+title = "Greengoblin510"
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[params]
+  author = "John Doe"
+  description = "Organig Growing Tips, DIY, And More"
+  [[params.social]]
+    icon = "You-tube"
+    name = "Youtube"
+    url = "https://github.com/gohugoio"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/gohugoio"
