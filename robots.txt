@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tags/*
+
+Sitemap: https://greengoblin510.github.io/greengoblin510/sitemap.xml
