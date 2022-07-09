@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent-vids on Greengoblin510</title>
-    <link>https:greengoblin510.com/recent-vids/</link>
+    <link>greengoblin510.com/recent-vids/</link>
     <description>Recent content in Recent-vids on Greengoblin510</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Jul 2022 16:19:11 -0400</lastBuildDate><atom:link href="https:greengoblin510.com/recent-vids/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 16:19:11 -0400</lastBuildDate><atom:link href="greengoblin510.com/recent-vids/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Current Videos</title>
-      <link>https:greengoblin510.com/recent-vids/currentvids/</link>
+      <link>greengoblin510.com/recent-vids/currentvids/</link>
       <pubDate>Fri, 01 Jul 2022 16:19:11 -0400</pubDate>
       
-      <guid>https:greengoblin510.com/recent-vids/currentvids/</guid>
+      <guid>greengoblin510.com/recent-vids/currentvids/</guid>
       <description> </description>
     </item>
     

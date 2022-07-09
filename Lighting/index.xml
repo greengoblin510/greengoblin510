@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Greengoblin510</title>
-    <link>https:greengoblin510.com/Lighting/</link>
+    <link>greengoblin510.com/Lighting/</link>
     <description>Recent content on Greengoblin510</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Jul 2022 16:37:33 -0400</lastBuildDate><atom:link href="https:greengoblin510.com/Lighting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 16:37:33 -0400</lastBuildDate><atom:link href="greengoblin510.com/Lighting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Info</title>
-      <link>https:greengoblin510.com/Lighting/info/</link>
+      <link>greengoblin510.com/Lighting/info/</link>
       <pubDate>Fri, 01 Jul 2022 16:37:33 -0400</pubDate>
       
-      <guid>https:greengoblin510.com/Lighting/info/</guid>
+      <guid>greengoblin510.com/Lighting/info/</guid>
       <description>sdf</description>
     </item>
     
